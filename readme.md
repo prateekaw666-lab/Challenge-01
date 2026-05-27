@@ -10,6 +10,10 @@ In the search bar entered 'Git: Clone'and selected the same from the dropdown su
 Newly created Github repositroy name appears on the left sidebar
 Selected 'New file' option and saved it as 'readme.md'
 Listing down all the processes that I have to go through
+Using the shortcut key "ctrl + shift + g" and the 'commit' bar opens
+Added the readme.md file
+Gave the command 'initial commit' and clicke on sync changes
+Now the readme.md file can be seen from the Github repositroy
 
 Challenges:
 - Installing Git in the wrong location
@@ -17,3 +21,6 @@ Later did some digging and go to know that it must be installed in the same dire
 
 -Could not find how to create a readme.md file
 Watched some youtube videos and got to know that I have to create it manually
+
+-How to commit and push
+Watched some youtube videos to get a clear sight of the process
